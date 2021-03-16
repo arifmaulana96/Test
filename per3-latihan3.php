@@ -1,20 +1,20 @@
 <?php
  $destination="Tokyo";
  Switch ($destination){
- case "Las Vegas":
- echo "Bring an extra $500";
+ 	case "Las Vegas":
+ 	echo "Bring an extra $500";
  break;
- case "Amsterdam":
- echo "Bring an open mind";
+ 	case "Amsterdam":
+ 	echo "Bring an open mind";
  break;
- case "Egypt":
- echo "Bring 15 bottles of SPF 50 Sunscreen";
+	 case "Egypt":
+	 echo "Bring 15 bottles of SPF 50 Sunscreen";
  break;
- case "Tokyo":
- echo "Bring lots of money";
+	 case "Tokyo":
+	 echo "Bring lots of money";
  break;
- case "Caribbean Islands":
- echo "Bring a swimsuit";
+	 case "Caribbean Islands":
+	 echo "Bring a swimsuit";
  break;
  }
-?>
+?> 
